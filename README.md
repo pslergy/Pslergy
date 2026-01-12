@@ -43,11 +43,7 @@ I design systems that operate beyond traditional network boundaries. From **Acou
 ---
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pslergy&show_icons=true&theme=radical&hide_border=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pslergy&layout=compact&theme=radical&hide_border=true" width="300" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pslergy&theme=tokyonight" alt="pslergy" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pslergy&theme=radical&hide_border=true" width="700" />
-</p>
 
