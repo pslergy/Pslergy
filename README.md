@@ -41,7 +41,13 @@ I design systems that operate beyond traditional network boundaries. From **Acou
 > *"In an era of total surveillance, privacy is not a luxury — it's a protocol."*
 
 ---
+---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pslergy&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pslergy&layout=compact&theme=tokyonight&hide_border=true" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pslergy&show_icons=true&theme=radical&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pslergy&layout=compact&theme=radical&hide_border=true" width="300" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pslergy&theme=radical&hide_border=true" width="700" />
+</p>
+
