@@ -2,6 +2,12 @@
 
 I design systems that operate beyond traditional network boundaries. From **Acoustic Data Links** to **AI-driven Social DNA**, I specialize in building complex, end-to-end products with a focus on **privacy** and **censorship resistance**.
 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.dt.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ---
 
 ### 🏗️ Featured Tactical Systems
@@ -14,24 +20,28 @@ I design systems that operate beyond traditional network boundaries. From **Acou
 
 #### 🌌 [Aryonika AI](https://psylergy.com) (Production)
 *Next-gen AI Dating & Astrology Ecosystem.*
-*   **Tech Stack:** Node.js, PostgreSQL/PostGIS, Python (Swiss Ephemeris Engine).
-*   **Scale:** Localized in 8 languages, real-time proximity matching, OpenAI-driven Tarot interpretations.
+*   **Scale:** Localized in 8 languages, real-time proximity matching via **PostGIS**, OpenAI-driven Tarot interpretations.
+*   **Engine:** Custom Python core using **NASA-standard Swiss Ephemeris** for precision astronomical calculations.
 
 ---
 
 ### 🛠 Tech Arsenal
 
-*   **Languages:** Dart, Kotlin, Python, JavaScript (Node.js).
-*   **Frameworks:** Flutter (BLoC/Cubit), Express, Prisma.
-*   **Infrastructure:** Linux (Ubuntu), Nginx, Docker, PM2, PostGIS.
-*   **Domain Expertise:** Mesh Networking, Cybersecurity, Distributed Systems, AI Integration.
+*   **Languages:** Dart, Kotlin, Python, JavaScript (Node.js), SQL.
+*   **Specialty:** Mesh Networking (P2P), Cybersecurity, Signal Processing (Sonar), AI Hyper-personalization.
+*   **Compliance:** Privacy-by-design, GDPR-aware architecture.
 
 ---
 
-### 📈 Current Status
+### 📈 Mission Status
 - 📍 Location: CIS
-- 🛫 Target: **Netherlands (Relocation)**
+- 🛫 Target: **Netherlands 🇳🇱 (Relocation)**
 - 🔍 Open for: Senior Mobile Lead / Product Architect roles in High-Tech, Privacy, or AI startups.
 
 > *"In an era of total surveillance, privacy is not a luxury — it's a protocol."*
 
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pslergy&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pslergy&layout=compact&theme=tokyonight&hide_border=true" width="300" />
+</p>
