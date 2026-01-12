@@ -12,7 +12,7 @@ I design systems that operate beyond traditional network boundaries. From **Acou
 *   **Security:** E2EE (AES-256-GCM), Anti-Forensic Panic Protocol, Stealth Masquerading.
 *   **Resilience:** Viral Gossip Relay for asynchronous data delivery without internet.
 
-#### 🌌 [Kismet AI](https://your-kismet-link.com) (Production)
+#### 🌌 [Aryonika AI](https://psylergy.com) (Production)
 *Next-gen AI Dating & Astrology Ecosystem.*
 *   **Tech Stack:** Node.js, PostgreSQL/PostGIS, Python (Swiss Ephemeris Engine).
 *   **Scale:** Localized in 8 languages, real-time proximity matching, OpenAI-driven Tarot interpretations.
@@ -34,3 +34,4 @@ I design systems that operate beyond traditional network boundaries. From **Acou
 - 🔍 Open for: Senior Mobile Lead / Product Architect roles in High-Tech, Privacy, or AI startups.
 
 > *"In an era of total surveillance, privacy is not a luxury — it's a protocol."*
+
