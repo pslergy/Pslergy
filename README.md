@@ -48,18 +48,13 @@ I design systems that operate beyond traditional network boundaries. From **Acou
 ### 📊 Tactical Activity Grid
 
 <p align="center">
-  <img src="https://github.com/pslergy/pslergy/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pslergy/pslergy/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pslergy/pslergy/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pslergy/pslergy/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pslergy&layout=compact&theme=tokyonight&hide_border=true" width="300" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pslergy&theme=radical&hide_border=true" width="700" />
-</p>
 
 
 
