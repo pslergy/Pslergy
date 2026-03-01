@@ -65,6 +65,24 @@ I don't write code line by line. I **architect systems and orchestrate a swarm o
 
 This allows me to deliver **high-resilience, privacy-first systems** (like Memento Mori and Aryonika) in just months, with full architectural oversight and zero hand-coding. You get the speed of AI multiplied by senior engineering expertise.
 
+flowchart TD
+    A["Вы (AI Swarm Architect)"]
+    A --> B["Аналитик (ИИ-3)<br/>Актуальность фич"]
+    A --> C["Промптер (ИИ-2)<br/>Перевод в задачи"]
+    
+    C --> D["Кодер (ИИ-1, платный)<br/>Пишет код"]
+    D --> E["Аудитор (ИИ)<br/>Проверка кода"]
+    
+    E --> A
+    
+    B --> A
+
+    style A fill:#1a1a2e,stroke:#00fff5,stroke-width:3px,color:#fff
+    style D fill:#16213e,stroke:#e94560,stroke-width:2px,color:#fff
+    style E fill:#16213e,stroke:#e94560,stroke-width:2px,color:#fff
+    style B fill:#0f3460,stroke:#0db2b2,stroke-width:2px,color:#fff
+    style C fill:#0f3460,stroke:#0db2b2,stroke-width:2px,color:#fff
+
 ## 🔧 **What I Offer**
 
 - **Experience in mobile systems engineering**  
@@ -89,6 +107,8 @@ This allows me to deliver **high-resilience, privacy-first systems** (like Memen
 - **GitHub:** [github.com/pslergy](https://github.com/pslergy)
 
 ---
+
+
 
 
 
