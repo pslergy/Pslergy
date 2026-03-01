@@ -67,12 +67,12 @@ This allows me to deliver **high-resilience, privacy-first systems** (like Memen
 
 ```mermaid
 flowchart TD
-    A["Вы (AI Swarm Architect)"]
-    A --> B["Аналитик (ИИ-3)<br/>Актуальность фич"]
-    A --> C["Промптер (ИИ-2)<br/>Перевод в задачи"]
+    A["You (AI Swarm Architect)"]
+    A --> B["Analyst AI<br/>Feature relevance"]
+    A --> C["Prompter AI<br/>Translate to tasks"]
     
-    C --> D["Кодер (ИИ-1, платный)<br/>Пишет код"]
-    D --> E["Аудитор (ИИ)<br/>Проверка кода"]
+    C --> D["Coder AI (paid)<br/>Writes code"]
+    D --> E["Auditor AI<br/>Code review"]
     
     E --> A
     B --> A
@@ -107,6 +107,7 @@ flowchart TD
 - **GitHub:** [github.com/pslergy](https://github.com/pslergy)
 
 ---
+
 
 
 
