@@ -1,4 +1,4 @@
-# 📡 **Pslergy — Senior Product Engineer & Systems Architect**
+# 📡 Pslergy — Senior Product Engineer, Systems Architect & AI Swarm Architect
 
 *"In an era of total surveillance, privacy is not a luxury — it’s a protocol."*
 
@@ -52,6 +52,19 @@ Built as a complete product: backend, data models, logic engine, and client inte
 
 ---
 
+## 🤖 My Methodology: AI Swarm Architecture
+
+I don't write code line by line. I **architect systems and orchestrate a swarm of AI agents** to build production-ready applications 3–4× faster than traditional teams.
+
+**How it works:**
+- **Architect (Me)** – I design the system, define logic, choose tech stack, and control quality.
+- **Coder AI (paid)** – Writes clean, maintainable code based on my specs.
+- **Prompter AI (free)** – Translates complex ideas into precise instructions for the coder.
+- **Analyst AI (free)** – Monitors trends, suggests features, checks relevance.
+- **Auditor AI (free)** – Reviews code for race conditions, security gaps, and tech debt.
+
+This allows me to deliver **high-resilience, privacy-first systems** (like Memento Mori and Aryonika) in just months, with full architectural oversight and zero hand-coding. You get the speed of AI multiplied by senior engineering expertise.
+
 ## 🔧 **What I Offer**
 
 - **Experience in mobile systems engineering**  
@@ -76,4 +89,5 @@ Built as a complete product: backend, data models, logic engine, and client inte
 - **GitHub:** [github.com/pslergy](https://github.com/pslergy)
 
 ---
+
 
