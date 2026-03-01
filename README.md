@@ -58,10 +58,10 @@ I don't write code line by line. I **architect systems and orchestrate a swarm o
 
 **How it works:**
 - **Architect (Me)** – I design the system, define logic, choose tech stack, and control quality.
-- **Coder AI (paid)** – Writes clean, maintainable code based on my specs.
-- **Prompter AI (free)** – Translates complex ideas into precise instructions for the coder.
-- **Analyst AI (free)** – Monitors trends, suggests features, checks relevance.
-- **Auditor AI (free)** – Reviews code for race conditions, security gaps, and tech debt.
+- **Coder AI ** – Writes clean, maintainable code based on my specs.
+- **Prompter AI ** – Translates complex ideas into precise instructions for the coder.
+- **Analyst AI ** – Monitors trends, suggests features, checks relevance.
+- **Auditor AI ** – Reviews code for race conditions, security gaps, and tech debt.
 
 This allows me to deliver **high-resilience, privacy-first systems** (like Memento Mori and Aryonika) in just months, with full architectural oversight and zero hand-coding. You get the speed of AI multiplied by senior engineering expertise.
 
@@ -89,5 +89,6 @@ This allows me to deliver **high-resilience, privacy-first systems** (like Memen
 - **GitHub:** [github.com/pslergy](https://github.com/pslergy)
 
 ---
+
 
 
