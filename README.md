@@ -1,4 +1,4 @@
-# 📡 Pslergy — Senior Product Engineer, Systems Architect & AI Swarm Architect
+# 📡 Psylergy Swarm — Senior Product Engineer, Systems Architect & AI Swarm Architect
 
 *"In an era of total surveillance, privacy is not a luxury — it’s a protocol."*
 
@@ -107,6 +107,7 @@ flowchart TD
 - **GitHub:** [github.com/pslergy](https://github.com/pslergy)
 
 ---
+
 
 
 
