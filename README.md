@@ -104,6 +104,8 @@ flowchart TD
 ## 📞 **Contact Information**
 
 - **Email:** pslergy@gmail.com  
+- **Site:** [miroutex.com](https://miroutex.com)  
+- **Telegram:** [@Miroutex_VPNbot](https://t.me/Miroutex_VPNbot)  
 - **GitHub:** [github.com/pslergy](https://github.com/pslergy)
 
 ---
